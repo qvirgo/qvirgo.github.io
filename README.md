@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://yansu.org)
+地址：[https://qvirgo.github.io/](https://qvirgo.github.io/)
 
 ### 安装说明
 
