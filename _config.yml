@@ -21,14 +21,13 @@ linkedin: qingchao-li-6b3b4585
 avatar: http://imgs.yansu.org/site-avatar.png
 favicon: http://imgs.yansu.org/site-favicon.ico
 
-# disqus config
-# disqus:
-#  shortname: suyan-zh
-
-# google analytics config
-# ga:
-#  id: UA-54767140-1
-#  url: yansu.org
+# ---
+# layout: post
+# title: Bootstrap常用资源
+# category: 资源
+# tags: Bootstrap
+# description: 列举自己搜集的Bootstrap资源，给像我这样前端不太行的WEB开发者
+# ---
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
